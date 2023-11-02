@@ -1,10 +1,6 @@
-# BLOURCE-Engine
-A Roblox Game engine based on Source™.
+# BLOURCE 0.9
+A Roblox Framework based on Source™.
 
 This is the official Blource Engine GitHub, originally meant for issues.
 
-The Dev Kit is not out yet, but will be included soon as the original AP400 game
-cames out.
-
-The AP400 Playtesting will come out way later, when the Demo will be half-done.
-Having access to AP400 early also means having access to the Blource Engine source code early.
+This exists mostly for the wiki, and BLOURCE 0.9 will be made available soon as a downloadable .rbxl file whenever it is ready for public uses.
