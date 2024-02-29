@@ -1,6 +1,9 @@
-# BLOURCE 0.9
-A Roblox Framework based on Source™.
+# BLOURCE 1.0
+A Roblox development framework based on Source™️
 
-This is the official Blource Engine GitHub, originally meant for issues.
+# ABOUT
 
-This exists mostly for the wiki, and BLOURCE 0.9 will be made available soon as a downloadable .rbxl file whenever it is ready for public uses.
+BLOURCE is an open-source Roblox project built specifically for the AP400 project.
+While the main framework used in-game is well and running, the open-source project, however, is a gigantic WIP.
+
+Please refer to the GitHub Wiki for BLOURCE 1.0 for documentations on how to use the framework and its various functions.
